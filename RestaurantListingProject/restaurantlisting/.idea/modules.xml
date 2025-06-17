@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EurekaServerProject.iml" filepath="$PROJECT_DIR$/.idea/EurekaServerProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/restaurantlisting.iml" filepath="$PROJECT_DIR$/.idea/restaurantlisting.iml" />
     </modules>
   </component>
 </project>
