@@ -8,9 +8,9 @@ eureka:
 
 spring:
   application:
-       name: USER-SERVICE
+       name: RESTAURANT-SERVICE
   datasource:
-         url: jdbc:mysql://localhost:3306/restaurant
+         url: jdbc:mysql://localhost:3306/userdb
          driver-class-name: com.mysql.cj.jdbc.Driver
          password: Aziz12345@
          username: root
